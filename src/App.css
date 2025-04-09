@@ -36,3 +36,46 @@
     transform: rotate(360deg);
   }
 }
+
+.profile {
+  background-color: #3a3f4b;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 20px;
+  max-width: 400px;
+}
+
+.profile img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+
+button {
+  background-color: #61dafb;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  margin: 20px 0;
+}
+
+button:hover {
+  background-color: #4fa8c7;
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+
+h2 {
+  margin: 10px 0;
+  color: #61dafb;
+}
+
+p {
+  margin: 5px 0;
+  font-size: 16px;
+}
